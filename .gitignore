@@ -1,0 +1,13 @@
+*.log
+*.tmp
+*.swp
+*~
+tests/tmp/
+tests/*.txt
+.DS_Store
+Thumbs.db
+*.bak
+*.backup
+.vscode/
+.idea/
+*.sublime-*
